@@ -204,10 +204,9 @@ Analyzes total sales grouped by **payment method** — credit card, boleto, vouc
 
 ### 10. ⭐ Review Score Analysis
 Analyzes customer satisfaction through **review scores** linked to orders.
-- Distribution of scores (1–5) across orders
-- Identifies low-rated order patterns to surface service or product quality issues
 
----
+
+
 
 ## 🛠️ Tech Stack
 
